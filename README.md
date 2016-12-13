@@ -1,2 +1,2 @@
 # HTML-CSS-Javascript
-The holy trinity combos
+PROJECTS DEALING WITH HTML CSS AND JAVASCRIPT.
